@@ -9,8 +9,8 @@ DROP TABLE IF EXISTS dept_emp,
                      salaries, 
                      employees, 
                      departments,
-					 time_clock,
-					 employees_schedule;
+		     time_clock,
+		     employees_schedule;
 
 
 
