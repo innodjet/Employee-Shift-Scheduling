@@ -12,8 +12,6 @@ DROP TABLE IF EXISTS dept_emp,
 		     time_clock,
 		     employees_schedule;
 
-
-
 CREATE TABLE employees (
     emp_no      INT  IDENTITY(1,1)            NOT NULL,
     birth_date  DATE            NOT NULL,
